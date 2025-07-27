@@ -19,6 +19,9 @@ This project predicts "whether the stock price will go up or down the next day" 
 
 ![Confusion Matrix](confusion_matrix.jpg)
 
+> S&P 500 Trend
+![S&P 500 Trend](images/sp500_timeseries.png)
+
 >> Model Insights
 
 - Achieved a precision score of ~57%
